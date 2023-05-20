@@ -1,0 +1,7 @@
+-- AI-Powered API Bot
+local Name = game.Workspace["TopHatNoob AI"].Name
+local Commands = game:GetService("ControllerService")
+local BotIQ = 99999
+local AIPowered = game:GetService("AssetService")
+local Powered = game:GetService("ControllerService")
+local HttpAI = game:GetService("HttpService")
