@@ -1,0 +1,5 @@
+local FunctionEnabler = game.Workspace["TopHatNoob AI"].function();
+	FunctionEnabler.function();
+		FunctionEnabler.Function
+	end
+end
